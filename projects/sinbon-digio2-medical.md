@@ -1,7 +1,5 @@
 # SINBON – digiO2 Medical Devices (Thermometer / ECG Recorder)
 
-![SINBON digiO2 Medical Devices](../assets/sinbon-digio2.png)
-
 ## Context
 Patient-facing home-care medical devices where correctness, stability, and validation are critical.
 

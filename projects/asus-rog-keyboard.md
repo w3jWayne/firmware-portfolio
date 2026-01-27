@@ -1,7 +1,5 @@
 # ASUS – ROG Gaming Keyboard (Wireless)
 
-![ASUS ROG Keyboard](../assets/asus-rog.png)
-
 ## Context
 High-volume consumer electronics product development with cross-functional validation and manufacturing support.
 

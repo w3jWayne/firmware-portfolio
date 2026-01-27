@@ -1,7 +1,5 @@
 # IRIS POWER (A Qualitrol Company) – Gas Analysis Monitoring Systems
 
-![IRIS POWER Gas Analysis Monitor](../assets/iris-power.png)
-
 ## Context
 Industrial / medical-grade monitoring system requiring high reliability, deterministic behavior, and long-term maintainability.
 

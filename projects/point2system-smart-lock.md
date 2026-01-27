@@ -1,7 +1,5 @@
 # Point2System – Smart Lock Products
 
-![Point2System Smart Lock](../assets/smart-lock.png)
-
 ## Context
 Consumer IoT smart lock products requiring low power, stable field behavior, and production readiness.
 
