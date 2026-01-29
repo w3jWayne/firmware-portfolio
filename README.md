@@ -20,4 +20,5 @@ Images used are publicly available or sanitized for portfolio purposes.
 - [ASUS – ROG Gaming Keyboard](projects/asus-rog-keyboard.md)
 
 ## Contact
-(Optionally add your email/LinkedIn here)
+waynechung0117@gmail.com
+www.linkedin.com/in/wenyao-chung
