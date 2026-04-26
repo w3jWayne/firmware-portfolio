@@ -5,8 +5,12 @@ Personal firmware side project built to demonstrate modern embedded IoT developm
 
 The project is designed as a practical embedded system rather than a simple demo. It focuses on modular firmware structure, testability, and clear separation between Wi-Fi connection management, HTTP request handling, sensor data ingestion, feature extraction, and inference/decision logic.
 
-## My Role
-Firmware Developer / System Designer.
+## Source Code
+
+👉 GitHub:
+https://github.com/w3jWayne/esp32-edge-ai-sensor-controller
+
+For more details about the project structure, build steps, and testing workflow, please see the README in the repository.
 
 ## What I Built
 - Built an ESP32 firmware project using **ESP-IDF** with a component-based architecture.
