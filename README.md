@@ -1,6 +1,8 @@
-# Firmware & Embedded Project Portfolio
+# Firmware & Embedded Systems Portfolio
 
-This repository showcases selected firmware and embedded systems projects I have worked on across medical devices, industrial monitoring systems, consumer hardware, and modern IoT / edge AI experimentation.
+This repository showcases selected firmware and embedded systems projects across industrial monitoring, embedded Linux platforms, consumer electronics, and modern IoT firmware architecture development.
+
+The projects focus on practical embedded software engineering concepts including RTOS-based design, event-driven firmware architecture, embedded networking, hardware/software integration, system reliability, and modular firmware development using C/C++, Embedded Linux, and ESP-IDF.
 
 **NDA & Confidentiality Note**  
 All information in this repository is **NDA-safe** and kept at a high level.  
@@ -9,7 +11,7 @@ Images used are publicly available or sanitized for portfolio purposes.
 
 ## Highlights
 - **Industrial monitoring (IRIS POWER / Qualitrol):** RTOS → Yocto Linux migration, IPC redesign, SQLite-based onboard logging
-- **ESP32 Edge AI IoT Controller:** ESP-IDF Wi-Fi / HTTP server, sensor pipeline, anomaly detection, and Python-based integration testing
+- **ESP32 Event-Driven IoT Controller:** ESP-IDF firmware project with FreeRTOS-based event-driven architecture, Wi-Fi / HTTP / MQTT communication, modular sensor processing pipeline, and Python-based integration testing.
 - **Medical devices (SINBON digiO2):** embedded C firmware for patient-facing devices (thermometer / ECG recorder)
 - **Smart lock (Point2System):** low-power modes, peripheral integration, system-level debugging and production support
 - **Consumer electronics (ASUS ROG):** firmware features, validation and mass production support
