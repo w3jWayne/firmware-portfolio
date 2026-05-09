@@ -16,7 +16,7 @@ Images used are publicly available or sanitized for portfolio purposes.
 
 ## Project Pages
 - [IRIS POWER – Gas Analysis Monitoring Systems](projects/iris-power-gas-analysis.md)
-- [ESP32 – Edge AI IoT Sensor Controller](projects/esp32-edge-ai-iot-controller.md)
+- [ESP32 – IoT Sensor Controller](projects/esp32-iot-controller.md)
 - [SINBON – digiO2 Medical Devices](projects/sinbon-digio2-medical.md)
 - [Point2System – Smart Lock Products](projects/point2system-smart-lock.md)
 - [ASUS – ROG Gaming Keyboard](projects/asus-rog-keyboard.md)
